@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671803705 source:c:\users\defne\c derslerİ\iş yeri örneği\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
